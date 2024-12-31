@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: Node.js CI
 
 on:
@@ -29,6 +28,3 @@ jobs:
       - name: Run tests
         run: |
           yarn test  # or npm test
-=======
-
->>>>>>> a894dc322c8c0110c5e3b7667ddd9ba8998eff17
